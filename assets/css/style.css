@@ -1,6 +1,9 @@
 #container1 {
     width: 100%;
 }
+.navbar {
+    background-color: grey;
+}
 .mainLogo{
     font-size: 20px;
     text-align: center;
@@ -9,4 +12,13 @@
     text-align: center;
     float: left;
    
+}
+
+.social {
+    max-width: 50px;
+    max-height: 50px;
+}
+#logoCard {
+    position: absolute;
+    
 }
